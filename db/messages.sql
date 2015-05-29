@@ -60,7 +60,7 @@ ALTER TABLE `messages`
 --
 
 --
--- AUTO_INCREMENT for table `messages`
+-- AUTO_INCREMENT for table `messasakilages`
 --
 ALTER TABLE `messages`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=4;
