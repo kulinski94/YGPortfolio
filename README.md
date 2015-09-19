@@ -1,2 +1,0 @@
-# YGPortfolio
-Yordan Georgiev Photography
